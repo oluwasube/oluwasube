@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am PROMISE OLUWASUBE!
 
 
-I am currently a **Software Engineering Trainee @ ALX** based in Lagos, Nigeria. 
+I am currently a **Software Engineering Trainee @ ALX_Africa**
 I am interested in leveraging analytical skills and strong attention to details to deliver scalable Web solutions. 
 ---
 
