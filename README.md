@@ -1,7 +1,7 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" align="center">, I am PROMISE OLUWASUBE!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px" align="center">, I am PROMISE OLUWASUBE!
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasube&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasube" /> </p>
 
 - I am currently a **Software Engineering Trainee @ ALX_Africa**. <br>
