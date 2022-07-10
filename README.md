@@ -1,6 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px" align="center"> <br>
-
-Hi there I am PROMISE OLUWASUBE!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px" align="left">>Hi there I am PROMISE OLUWASUBE! <br>
 
 
 <img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
