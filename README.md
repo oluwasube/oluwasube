@@ -1,12 +1,21 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am PROMISE OLUWASUBE!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" align="center">, I am PROMISE OLUWASUBE!
 
 
-I am currently a **Software Engineering Trainee @ ALX_Africa**. <br>
-I am interested in leveraging analytical skills and strong attention to details to deliver scalable Web solutions. 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasube&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasube" /> </p>
+
+- I am currently a **Software Engineering Trainee @ ALX_Africa**. <br>
+
+- 🌱 I’m currently learning ** C, python and javascript **
+
+- 📫 How to reach me **oluwasube@outlook.com**
+
+- ⚡ Fun fact **I am Funny and love to make new friends**
+
+
 ---
 
 🧰 Toolbox
-
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="javascript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50" />
 ---
@@ -25,12 +34,3 @@ I am interested in leveraging analytical skills and strong attention to details 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
