@@ -3,7 +3,7 @@ Hi there I am PROMISE OLUWASUBE!
 <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasube&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasube" /> </p>
 
-- I am currently a **Software Engineering Trainee @ ALX_Africa**. <br>
+- I am currently a **Software Engineering Trainee @ ALX_Africa**.. 
 
 - 🌱 I’m currently learning ** C, python and javascript **
 
