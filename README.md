@@ -29,6 +29,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oluwasube&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph username=oluwasube&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
 
 <!--
 **oluwasube/oluwasube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
