@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oluwasube@outlook.com**
 
-- ⚡ Fun fact **I am Funny and love to make new friends**
+- ⚡ Fun fact **I  love to make new friends**
 
 
 ---
