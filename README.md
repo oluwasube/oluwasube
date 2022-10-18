@@ -23,13 +23,6 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasube&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Promise GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwasube&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oluwasube&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=oluwasube&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 
 <!--
