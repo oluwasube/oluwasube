@@ -20,6 +20,8 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="javascript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50" />
 ---
+[![Oluwasube's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwasube&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## &#x1f4c8; My GitHub Stats
 <div align="center">
@@ -29,7 +31,7 @@
    <img src="https://streak-stats.demolab.com?user=oluwasube&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
  
   </div>
-[![Oluwasube's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwasube&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 
