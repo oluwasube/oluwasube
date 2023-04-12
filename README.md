@@ -25,8 +25,11 @@
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasube&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oluwasube&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![Oluwasube's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwasube&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+// [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oluwasube&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=oluwasube&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
 
 <!--
 **oluwasube/oluwasube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
