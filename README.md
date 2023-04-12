@@ -22,9 +22,14 @@
 ---
 
 ## &#x1f4c8; My GitHub Stats
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=oluwasube&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
-[![Oluwasube's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwasube&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oluwasube&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <h2> <strong> My Github Stats </strong> </h2>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oluwasube&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=oluwasube&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=oluwasube&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://streak-stats.demolab.com?user=oluwasube&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+</div>
+
 
 
  
