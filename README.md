@@ -26,11 +26,9 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oluwasube&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=oluwasube&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
    <img src="https://streak-stats.demolab.com?user=oluwasube&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+  </div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oluwasube&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oluwasube&theme=github)
- 
-  </div>
-
 
  
 
