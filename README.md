@@ -4,12 +4,7 @@
 
 <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-- I am currently a **Software Engineering Trainee @ ALX_Africa**.. 
-
-- 🌱 I’m currently learning ** C, python and javascript **
-
-- 📫 How to reach me **oluwasube@outlook.com**
+- 📫 How to reach me **oluwasubepromise@gmail.com**
 
 - ⚡ Fun fact **I  love to make new friends**
 
