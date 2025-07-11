@@ -3,10 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=oluwasube&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=58A6FF&vCenter=true&multiline=true&lines=Hi+there!+👋;I+am+Oluwasube%2C+a+Software+Engineer;I+build+ideas+into+products+💡)](https://git.io/typing-svg)
-
-
 
 <!-- Coding Animation -->
 <div align="center">
@@ -64,11 +60,6 @@
 
 
 ---
-### 📆 Contributions Calendar
-
-<a href="https://github.com/oluwasube">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oluwasube&theme=radical&area=true&hide_border=true" width="100%"/>
-</a>
 
 
 <!-- Footer -->
