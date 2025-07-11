@@ -24,7 +24,7 @@
 
 ### 🧰 My Tech Toolbox
 
-### 🧰 My Tech Toolbox
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
@@ -64,6 +64,12 @@
 
 
 ---
+### 📆 Contributions Calendar
+
+<a href="https://github.com/oluwasube">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oluwasube&theme=radical&area=true&hide_border=true" width="100%"/>
+</a>
+
 
 <!-- Footer -->
 <!--
