@@ -54,6 +54,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oluwasube&theme=radical&utcOffset=+1" />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oluwasube&theme=radical&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oluwasube&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oluwasube&theme=radical&utcOffset=+1" />
+<img src="https://github-profile-trophy.vercel.app/?username=oluwasube&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
+
+
 
 ---
 
