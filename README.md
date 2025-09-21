@@ -31,7 +31,10 @@
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oluwasube&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <!-- Stats with private commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=oluwasube&show_icons=true&count_private=true&theme=radical&hide_border=true" width="45%" />
+  
+  <!-- Streak stats -->
   <img src="https://streak-stats.demolab.com?user=oluwasube&theme=radical&hide_border=true" width="45%" />
 </div>
 
@@ -41,16 +44,25 @@
 
 <div align="center">
 
-  <!-- Most committed languages -->
+  <!-- Most committed languages (note: may still show fewer if one dominates) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oluwasube&theme=radical" width="45%" />
 
   <!-- Languages by repos count -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oluwasube&theme=radical" width="45%" />
 
-  <!-- Languages by code size (percentages) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasube&theme=radical&layout=donut-vertical&hide_border=true&langs_count=20&custom_title=Languages%20by%20Code%20Size%20(%)" width="60%" />
+  <!-- Languages by code size (percentages, with private repos included) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasube&count_private=true&theme=radical&layout=donut-vertical&hide_border=true&langs_count=20&custom_title=Languages%20by%20Code%20Size%20(%)" width="60%" />
 
 </div>
+
+---
+
+### 📌 Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oluwasube&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oluwasube&theme=radical&utcOffset=+1" />
+</p>
 
 
 
