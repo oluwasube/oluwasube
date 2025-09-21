@@ -50,19 +50,8 @@
   <!-- Languages by repos count -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oluwasube&theme=radical" width="45%" />
 
-  <!-- Languages by code size (percentages, with private repos included) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasube&count_private=true&theme=radical&layout=donut-vertical&hide_border=true&langs_count=20&custom_title=Languages%20by%20Code%20Size%20(%)" width="60%" />
-
 </div>
 
----
-
-### 📌 Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oluwasube&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oluwasube&theme=radical&utcOffset=+1" />
-</p>
 
 
 
