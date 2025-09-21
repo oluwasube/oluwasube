@@ -7,8 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 📫 Reach me at: **oluwasubepromise@gmail.com**
-- ⚡ Fun fact: I love to make new friends
+- ⚡ Fun fact: Nothing to see here. reach me at  **oluwasubepromise@gmail.com**
 
 ---
 
