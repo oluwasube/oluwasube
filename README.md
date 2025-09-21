@@ -34,7 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oluwasube&show_icons=true&count_private=true&theme=radical&hide_border=true" width="45%" />
   
   <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com?user=oluwasube&theme=radical&hide_border=true" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=oluwasube&theme=radical&hide_border=true&include_all_commits=true" />
+
 </div>
 
 ---
