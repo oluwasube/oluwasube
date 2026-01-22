@@ -26,20 +26,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oluwasube&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasube&layout=compact&theme=default&hide_border=true" />
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=oluwasube&theme=default&hide_border=true)
-  
-</div>
-
----
 
